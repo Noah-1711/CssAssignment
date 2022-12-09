@@ -4,9 +4,12 @@
     box-sizing: border-box;
 }
 
+ 
+
 .maincontainer{
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
+    overflow-x: scroll;
     
 }
 .container{
@@ -89,5 +92,6 @@
     grid-column: 9/12;
     grid-row: 3/4;
  }
+
 
 
