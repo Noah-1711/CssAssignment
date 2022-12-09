@@ -35,7 +35,7 @@ Assignment-306-01 :-  https://noah-1711.github.io/CssAssignment/assignment-306-0
 
 Assignment-306-02 :- 
 
-Assignment-306-03 :- 
+Assignment-306-03 :- https://noah-1711.github.io/CssAssignment/assignment-306-03/index.html
 
 Assignment-307-01 :- https://noah-1711.github.io/CssAssignment/assignment-307-01/index.html
 
